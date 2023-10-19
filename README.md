@@ -6,7 +6,7 @@
     <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines= 𝑩𝒊𝒆𝒏+𝒗𝒆𝒏𝒖𝒆+𝑪𝒉𝒆𝒛+𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨+𓃵𝑴𝑫; 𝑩𝒐𝒕+𝑾𝒂𝒕𝒉𝒔𝒂𝒑𝒑+𝑴𝒖𝒍𝒕𝒊-𝑫𝒆𝒗𝒊𝒄𝒆; 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒑𝒆+𝑷𝒂𝒓+𝑲𝑬𝑵𝑽+𝑬𝒕+𝑪𝑹𝑨𝒁𝒀𝑷𝑹𝑰𝑵𝑪𝑬; 𝒓𝒆𝒂𝒍𝒊𝒔𝒆+𝑳𝒆+20%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines= 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒖𝒆+𝑪𝒉𝒆𝒛;𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨+𓃵𝑴𝑫; 𝑩𝒐𝒕+𝑾𝒂𝒕𝒉𝒔𝒂𝒑𝒑+𝑴𝒖𝒍𝒕𝒊-𝑫𝒆𝒗𝒊𝒄𝒆; 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒑𝒆+𝑷𝒂𝒓;𝑲𝑬𝑵~𝑽+𝑬𝒕+𝑪𝑹𝑨𝒁𝒀~𝑷𝑹𝑰𝑵𝑪𝑬;𝑹𝒆𝒂𝒍𝒊𝒔𝒆+𝑳𝒆;20%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
