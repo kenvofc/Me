@@ -1,5 +1,5 @@
 {
-    "name": "XBug-Bot",
+    "name": "Kenv's-Bot",
     "version": "3.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "Kenv",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
