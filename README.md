@@ -10,8 +10,8 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?label=Fork&style=social">
+  <a href="https://github.com/Sakura8070/Me">
+    <img src="https://img.shields.io/https://github.com/Sakura8070/Me?label=Fork&style=social">
     
     
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
