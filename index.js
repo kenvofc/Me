@@ -1,9 +1,9 @@
-//base by DGXeon (Xeon Bot Inc.)
+//base by Kenv OFC (Kenv Bot Inc.)
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//GitHub: @kenvofc
+//WhatsApp: +237656774511
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const {
