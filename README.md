@@ -27,9 +27,9 @@
  <a href="https://github.com/Sakura8070/Me/LICENCE">
 <img src='https://img.shields.io/github/licence/Sakura8070/Me?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/DxOBjdHLovEJQhwRDXPow3" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <a aria-label="Join our chats" href="https://chat.whatsapp.com/KFe2GEMBZ9eI1bpNVotZOW" target="_blank">
+    <a aria-label="Join our chats" href="https://chat.whatsapp.com/I5g6wTUHdtML3klxL8W9a0" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Public Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
