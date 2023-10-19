@@ -2,31 +2,31 @@
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//GitHub: kenvofc
+//WhatsApp: +237656774511
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Mizoram, Aizawl"
+global.ownernomer = "237656774511"
+global.ownername = "Kenv OFC"
+global.ytname = "YT:"
+global.socialm = "GitHub: kenvofc"
+global.location = "Cameroon, Yaoundé, Douala"
 
-global.ownernumber = '17188785916'  //creator number
-global.ownername = 'DGXeon' //owner name
-global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '237656774512'  //creator number
+global.ownername = 'Kenv OFC' //owner name
+global.botname = 'KenvBotInc' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = 'Kenv ofc\n\nContact: +237656774511'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.themeemoji = '☣️'
+global.wm = "Kenv Bot Inc."
 
 //theme link
 global.link = 'https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d'
@@ -48,7 +48,7 @@ global.autoread_status = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v4'
 
 //reply messages
 global.mess = {
