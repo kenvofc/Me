@@ -22,10 +22,10 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
+<a href="https://github.com/Sakura8070"><img title="Owner" src="https://img.shields.io/badge/Owner-Ken~v Francis-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
-<img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
+ <a href="https://github.com/Sakura8070/Me/LICENCE">
+<img src='https://img.shields.io/github/licence/Sakura8070/Me?color=%231e81b0&style=for-the-badge' width="143px">
 <p align="center"> 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
