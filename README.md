@@ -34,7 +34,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
 
-## ***Bot Features***
+## ***𝑭𝑶𝑵𝑪𝑻𝑰𝑶𝑵𝑨𝑳𝑰𝑻𝑬𝑺 𝑫𝑬 𝑺𝑬𝑹𝑰𝒁𝑨𝑾𝑨𓃵𝑴𝑫 ***
 ---
 1. ***Game Menu.***
 2.  ***Multi-Themes Supported.***
