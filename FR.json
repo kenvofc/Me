@@ -40,7 +40,7 @@
             "ALLREADY_DEACTIVATED": "```👀️ Simsimi Group Chat Bot Est Déjà Désactivé.```"
               },
           "gpt_pm_chatbot": {
-            "REQUEST_API": "*🤖️ Error :- \n*```Ohh..Open-AI key introuvable. Veuillez Mettre L'Open AI Key Au fichier config.js```\n\n_ Veuillez Faire Votre open ai key Dans Ce Site Web_ : https://beta.openai.com/account/api-keys",
+            "REQUEST_API": "*🤖️ Erreur :- \n*```Ohh..Open-AI key introuvable. Veuillez Mettre L'Open AI Key Au fichier config.js```\n\n_ Veuillez Faire Votre open ai key Dans Ce Site Web_ : https://beta.openai.com/account/api-keys",
             "ACTIVATE": "```✅️ Gpt Inbox Chat Bot Activé Avec Succès.```",
             "ALLREADY_ACTIVATED": "```👀️ Gpt Inbox Chat Bot Est Déjà Activé.```",
             "DEACTIVATE": "```✅️ Gpt Inbox Chat Bot Désactivé Avec Succès.```",
