@@ -1,56 +1,56 @@
 {
-    "LANGUAGE": "English",
-    "LANGCODE": "EN",
+    "LANGUAGE": "Français",
+    "LANGCODE": "FR",
     "AUTHOR": "DarkWinzo",
     "STRINGS": {
       
       "queen_md": {
         "gpt_chatbot": {
-            "ERROR": "🤖️ Error Code"
+            "ERROR": "🤖️ Erreur De Code"
              },
         "simsimi_chatbot": {
-            "ERROR": "```❌ An error has occurred.```"
+            "ERROR": "```❌ Une erreur est survenue .```"
              },
         "davinci_chatbot": {
             "BOT_NAME": "👸🏻️ QUEEN - AI",
-            "ERROR": "```I am getting API Update right now. Please hold on and check back in a while.```"
+            "ERROR": "```Je reçois actuellement la mise à jour de l'API. S'il vous plaît, attendez et revenez dans quelques instants.```"
              },     
         "pm_chatbot": {
-            "ACTIVATE": "```✅️ Brainshop Inbox Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Activated.```",
-            "DEACTIVATE": "```✅️ Brainshop Inbox Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Inbox Chat Bot Allready Deactivated.```"
+            "ACTIVATE": "```✅️ Le chatbot de la boîte de réception Brainshop s'active avec succès.```",
+            "ALLREADY_ACTIVATED": "```👀️ Le chatbot de la boîte de réception Brainshop est déjà activé.```",
+            "DEACTIVATE": "```✅️  Le chatbot de la boîte de réception Brainshop a été désactivé avec succès.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Le chatbot de la boîte de réception Brainshop est déjà désactivé.```"
               },
          "group_chatbot": {
-            "ACTIVATE": "```✅️ Brainshop Group Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Brainshop Group Chat Bot Allready Activated.```",
-            "DEACTIVATE": "```✅️ Brainshop Group Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Brainshop Group Chat Bot Allready Deactivated.```"
+            "ACTIVATE": "```✅️ Brainshop Group Chat Bot activé avec succès.```",
+            "ALLREADY_ACTIVATED": "```👀️ Le chatbot de groupe Brainshop est déjà activé.```",
+            "DEACTIVATE": "```✅️ Désactivation réussie du chatbot de groupe Brainshop.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Le chatbot du groupe Brainshop est déjà désactivé.```"
               },
           "simsimi_pm_chatbot": {
-            "ACTIVATE": "```✅️ Simsimi Inbox Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Simsimi Inbox Chat Bot Allready Activated.```",
-            "DEACTIVATE": "```✅️ Simsimi Inbox Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Inbox Chat Bot Allready Deactivated.```"
+            "ACTIVATE": "```✅️ Le chatbot de la boîte de réception Simsimi s'active avec succès.```",
+            "ALLREADY_ACTIVATED": "```👀️ Chatbot de la boîte de réception Simsimi déjà activé.```",
+            "DEACTIVATE": "```✅️ Désactivation réussie du chatbot de la boîte de réception Simsimi.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Chatbot de la boîte de réception Simsimi déjà désactivé.```"
               },
          "simsimi_group_chatbot": {
-            "ACTIVATE": "```✅️ Simsimi Group Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Simsimi Group Chat Bot Allready Activated.```",
-            "DEACTIVATE": "```✅️ Simsimi Group Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Simsimi Group Chat Bot Allready Deactivated.```"
+            "ACTIVATE": "```✅️ Le robot de discussion du groupe Simsimi s'active avec succès.```",
+            "ALLREADY_ACTIVATED": "```👀️ Le chatbot de groupe Simsimi est déjà activé.```",
+            "DEACTIVATE": "```✅️ Désactivation réussie du chatbot de groupe Simsimi.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Le chatbot de groupe Simsimi est déjà désactivé.```"
               },
           "gpt_pm_chatbot": {
-            "REQUEST_API": "*🤖️ Error :- \n*```Ohh..Open-AI key not found.Please Put Open AI Key to config.js```\n\n_Make open ai key in this website_ : https://beta.openai.com/account/api-keys",
-            "ACTIVATE": "```✅️ Gpt Inbox Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Gpt Inbox Chat Bot Allready Activated.```",
-            "DEACTIVATE": "```✅️ Gpt Inbox Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Gpt Inbox Chat Bot Allready Deactivated.```"
+            "REQUEST_API": "*🤖️ Erreur :- \n*```Ohh..Open-AI key est introuvable. Veuillez introduire l'Open AI Key  au fichier config.js```\n\n_ Faites votre open ai key dans ce site web_ : https://beta.openai.com/account/api-keys",
+            "ACTIVATE": "```✅️ Gpt Inbox Chat Bot Activé avec succès.```",
+            "ALLREADY_ACTIVATED": "```👀️ Gpt Inbox Chat Bot est déjà Activaté.```",
+            "DEACTIVATE": "```✅️ Gpt Inbox Chat Bot a été désactivé avec succès .```",
+            "ALLREADY_DEACTIVATED": "```👀️ Gpt Inbox Chat Bot est déjà Désactivaté.```"
               },
           "gpt_group_chatbot": {
-            "ACTIVATE": "```✅️ Gpt Group Chat Bot Activate Successfully.```",
-            "ALLREADY_ACTIVATED": "```👀️ Gpt Group Chat Bot Allready Activated.```",
-            "DEACTIVATE": "```✅️ Gpt Group Chat Bot Deactivate Successfully.```",
-            "ALLREADY_DEACTIVATED": "```👀️ Gpt Group Chat Bot Allready Deactivated.```"
+            "ACTIVATE": "```✅️ Gpt Groupe Chat Bot Activaté Avec Succès.```",
+            "ALLREADY_ACTIVATED": "```👀️ Gpt Group Chat Bot Est Déjà Activé.```",
+            "DEACTIVATE": "```✅️ Gpt Groupe Chat Bot Désactivé Avec Succès.```",
+            "ALLREADY_DEACTIVATED": "```👀️ Gpt Group Chat Bot Es déjà Désactivé.```"
               },
           "davinci_pm_chatbot": {
             "ACTIVATE": "```✅️ Davinci Module Inbox Chat Bot Activate Successfully.```",
